@@ -1,0 +1,5 @@
+- mother died to bleach
+- father went to get milk
+- people think blobus is evil bc frogus actually is evil
+- Rumors of a phrogger or a ghost exsists
+- Blobus hates that Frogus uses his puddle for evil
