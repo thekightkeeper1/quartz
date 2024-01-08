@@ -1,1 +1,0 @@
-This is a integral role in the [[Greenlands]], as the faeries]] are believed to be  the source of light and life for them. Faerie dancing does thingies and the faeries then keep the forest alive.

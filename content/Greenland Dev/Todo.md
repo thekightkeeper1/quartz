@@ -1,1 +1,0 @@
-figure out how MC can discover the Bobi

@@ -1,3 +1,0 @@
-## Blobus
-Randomly appearing in obscure places in buildings is a small puddle. It often actually [[Blobus]]. He likes to pretend to be a puddle, however doing so in an obvious place would mean that people would clean him up, or step on him. Consequently he has developed an uncanny instinct for places that are safe from this. Sadly, this also means that nobody sees him, though he has yet to realize this.
-MC can discover that this puddle is Blobus

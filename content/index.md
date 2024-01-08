@@ -1,6 +1,7 @@
 ---
 title: Welcome to Quartz
 ---
-
-This should theoretically be working
-[[Greenland-dev]]
+# Quick Links
+| [MyUCF](https://my.ucf.edu/) |
+| ---- |
+![[Pasted image 20240107230850.png]]

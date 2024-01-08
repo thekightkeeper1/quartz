@@ -1,1 +1,0 @@
-[[Bobus|Bobi]] probably won't be in the main story
