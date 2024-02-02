@@ -1,0 +1,3 @@
+	Media, Technology, and Globalization
+
+This article is not what I though it was at first. The first section of the chapter covers the impact of digital media on politics in four countries. Much of the text was not useful to my research, but it does cover some key aspects of how social media works in a political environment. The chapter delves into how media serves political entities, but also allows non-political participants a voice, promoting political change. Especially, social media allows for a convergence of what might be spread out counterpublics, who oppose the staus quo. But social media is suspect as well to bias, and does not always act in favor of new ideas. Instead it is simply a good measurement of the citizens responsiveness to political apparatuses. 

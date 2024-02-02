@@ -1,0 +1,1 @@
+Political efficacy is a citizen's sense that their political input has an impact on political processes
