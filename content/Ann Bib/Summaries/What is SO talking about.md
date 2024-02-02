@@ -3,3 +3,5 @@ The article introduces Stack Overflow's use, as a popular tool for developers to
 ![[Pasted image 20240201184753.png]]Where preprocessing took a post and removed all stop words such as "a" and "the", aswell as converted words to a stem using the Porter stemming algorithm, which turns words such as "compiled" or "compiling" to simplying "compil". After processing, they then utilized a machine learning model in the LDA to extract topics, which are just groups of words that appear together commonly, such as "orbit" and "planet" making the topic of astronomy.
 After explaining the methodology, the present the results, and discuss them. The main findings are the most popular emerging topics, including web and mobile developement. They also discovered the most popular tools developers use, and that the community references open source with increase ubiquity. There is significant discussion on non-techincal topics, such as job experience.
 After presenting the research, they expose the flaws in the researches validity, and where further reseach could be conducted.
+
+%%[[Ann Bib/Summaries/Summaries|Summaries]] %% 
